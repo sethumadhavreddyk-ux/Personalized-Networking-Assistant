@@ -1,0 +1,68 @@
+[
+  {
+    "conversation_id": "test-session-uuid-12345",
+    "rating": 5,
+    "comments": "Excellent custom talking points!",
+    "logged_at": "2026-07-06T19:33:14.107842"
+  },
+  {
+    "conversation_id": "test-session-uuid-12345",
+    "rating": 5,
+    "comments": "Excellent custom talking points!",
+    "logged_at": "2026-07-06T21:36:57.130822"
+  },
+  {
+    "conversation_id": "7babe797-b5e0-4ca7-95a3-37ad3c46419f",
+    "rating": 5,
+    "comments": "Great Experience.The conversation Suggestion were relevant and useful",
+    "logged_at": "2026-07-07T15:22:12.995921"
+  },
+  {
+    "conversation_id": "12e70e51-ee10-4fb2-8112-511991d1939a",
+    "rating": 5,
+    "comments": "Very Useful",
+    "logged_at": "2026-07-09T21:53:14.462899"
+  },
+  {
+    "conversation_id": "test-session-uuid-12345",
+    "rating": 5,
+    "comments": "Excellent custom talking points!",
+    "logged_at": "2026-07-09T21:57:38.332519"
+  },
+  {
+    "conversation_id": "493d3722-fd72-4549-bd0c-354ba301cbb5",
+    "rating": 3,
+    "comments": "useful",
+    "logged_at": "2026-07-09T22:14:20.285270"
+  },
+  {
+    "conversation_id": "dff7a53e-2b4e-40c3-8a1d-a852317be220",
+    "rating": 4,
+    "comments": "Useful",
+    "logged_at": "2026-07-09T22:42:11.478062"
+  },
+  {
+    "conversation_id": "fa383a4b-fb05-43bd-b185-d158d1a06742",
+    "rating": 5,
+    "comments": "excellent",
+    "logged_at": "2026-07-13T13:24:23.208017"
+  },
+  {
+    "conversation_id": "48285954-b1ae-4595-a880-c4058a7a09fd",
+    "rating": 5,
+    "comments": "",
+    "logged_at": "2026-07-13T23:03:24.099654"
+  },
+  {
+    "conversation_id": "48285954-b1ae-4595-a880-c4058a7a09fd",
+    "rating": 5,
+    "comments": "",
+    "logged_at": "2026-07-13T23:03:26.842694"
+  },
+  {
+    "conversation_id": "c762f64b-dcfa-43da-9e02-9d5d2f04e67e",
+    "rating": 5,
+    "comments": "",
+    "logged_at": "2026-07-14T09:42:13.794406"
+  }
+]

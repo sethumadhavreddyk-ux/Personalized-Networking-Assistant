@@ -1,0 +1,1 @@
+# SkillWallet_GEN AI - App Package
